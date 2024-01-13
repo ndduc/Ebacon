@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "knMwtUKt7Lcjd2MYSP3VIUm6QVNsFAuTXOA813oYbdorK+Ox8O9NxOjuetuixIjfDuJYilZSS9ctqGYRgjAGFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ndduc\\Desktop\\Ebacon\\Ebacon\\Ebacon\\Ebacon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ndduc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

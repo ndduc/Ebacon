@@ -1,0 +1,17 @@
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\bin\Debug\net8.0\Ebacon.exe
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\bin\Debug\net8.0\Ebacon.deps.json
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\bin\Debug\net8.0\Ebacon.runtimeconfig.json
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\bin\Debug\net8.0\Ebacon.dll
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\bin\Debug\net8.0\Ebacon.pdb
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\Ebacon.csproj.AssemblyReference.cache
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\Ebacon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\Ebacon.AssemblyInfoInputs.cache
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\Ebacon.AssemblyInfo.cs
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\Ebacon.csproj.CoreCompileInputs.cache
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\Ebacon.csproj.CopyComplete
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\Ebacon.dll
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\refint\Ebacon.dll
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\Ebacon.pdb
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\Ebacon.genruntimeconfig.cache
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\ref\Ebacon.dll
