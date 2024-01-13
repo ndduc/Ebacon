@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ebacon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d02134894efbd902c7e2f3238302bcf4bec8e8df")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ebacon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ebacon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

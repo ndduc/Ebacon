@@ -15,3 +15,4 @@ C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\refint\Ebacon.dll
 C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\Ebacon.pdb
 C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\Ebacon.genruntimeconfig.cache
 C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\ref\Ebacon.dll
+C:\Users\ndduc\Desktop\Ebacon\Ebacon\Ebacon\obj\Debug\net8.0\Ebacon.sourcelink.json

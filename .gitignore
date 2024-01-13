@@ -1,0 +1,110 @@
+# Ignore Visual Studio files
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+_ReSharper*/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.userprefs
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Ignore build and output directories
+bin/
+obj/
+Debug/
+Release/
+packages/
+*.dll
+*.exe
+
+# Ignore NuGet package files
+*.nupkg
+*.paket
+*.paket.local
+
+# Ignore Visual Studio files
+.vscode/
+.vs/
+.vs2017/
+.vs2019/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Ignore ReSharper files
+_ReSharper*/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Ignore Rider files
+.idea/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Ignore build output and logs
+[Tt]est[Rr]esult*/
+[Bb]in/
+[Dd]ebug/
+[Ii]p/
+[Rr]elease/
+[Ss]tats/
+*.log
+*.xml
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+**/[Dd]ebug*/
+**/[Dd]ebugPublic/
+**/[Rr]elease*/
+**/[Rr]eleases/
+**/publish/
+*.user
+*.vspscc
+*.vssscc
+[Tt]est[Ff]iles/
+_appveyor.yml
+*.sln.docstates
+*.nuget/NuGet.Config
+*.paket/paket.exe
+**/node_modules/
+**/bower_components/
+**/typings/
+**/jspm_packages/
+npm-debug.log*
+node_modules/
+bower_components/
